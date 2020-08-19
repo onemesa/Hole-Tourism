@@ -1,0 +1,59 @@
+.background-image-container {
+	background-position: 0px -20px;
+	padding-bottom: 100px;
+}
+
+h1 {
+	position: relative;
+	bottom: 60px;
+	font-size: 10rem;
+}
+
+#logo {
+	position: relative;
+	bottom: 120px;
+}
+
+#sponsor {
+	color: white;
+	font-family: Russo One, Roboto;
+	position: relative;
+	right: 780px;
+	font-size: 18px;
+}
+
+#sub {
+	position: relative;
+	bottom: 20px;
+}
+
+#gyoza {
+	background-position: -150px 0px;
+}
+
+#ebisu {
+	position: relative;
+	bottom: 80px;
+	background-position: 0px 50px;
+}
+
+.peeps {
+	margin-top: 80px;
+}
+
+#drink {
+	position: relative;
+	left:500px;
+}
+
+.footer-container {
+	color: #AA5D92;
+	background-color: rgb(36, 219, 23, 0.6)
+}
+
+.darker {
+	color: #000000 !important;
+}
+
+/*24db17*/
+/*#aa5d92*/
